@@ -1,0 +1,10 @@
+We can start by trying to define testing as the process
+of executing a program with the intent of finding faults.
+• This is a very narrow definition, but it’s good enough for
+now…
+
+• Although it depends on the project, you typically may
+spend 40% of development time and 25% of budget on
+testing:
+• If you try to cut corners, you’ll typicaly end up spending
+even more…
